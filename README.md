@@ -46,6 +46,15 @@
 
 ---
 
+## 🎓 Certificates & Courses
+
+- **Learn Python Programming - Beginner to Master** (Udemy) – [view certificate](https://ude.my/UC-b08dee3d-03ef-4725-8f76-b30c942ec7cf)  
+- **Java Bootcamp: Learn Java with 100+ Java Projects** (Udemy) – [view certificate](https://ude.my/UC-36bf607e-9bf2-4848-9284-cd838a676bbc)  
+
+> More courses and certificates will be added over time as I keep learning.
+
+---
+
 ## 📊 GitHub stats
 
 <p align="center">
