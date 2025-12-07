@@ -59,7 +59,7 @@
 
 ## 📫 How to reach me
 
-- 💼 LinkedIn: _[Add your LinkedIn link here]_  
-- 📧 Email: _[your.email@example.com]_  
+- 💼 LinkedIn: _[https://www.linkedin.com/in/shimon-esterkin/]_  
+- 📧 Email: _[esterkinshimon712@gmail.com]_  
 
 If you like something here, feel free to ⭐ a repo or reach out – I’m always happy to connect with other learners and devs 🙂
