@@ -61,6 +61,7 @@
 ## 📫 How to reach me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shimon-esterkin/)  
-- 📧 [esterkinshimon712@gmail.com](mailto:esterkinshimon712@gmail.com)  
+- 📧 [esterkinshimon712@gmail.com](mailto:esterkinshimon712@gmail.com)
+- 📧 [Instagram](https://www.instagram.com/blackhebrewisraeli/)   
 
 If you like something here, feel free to ⭐ a repo or reach out – I’m always happy to connect with other learners and devs 🙂
